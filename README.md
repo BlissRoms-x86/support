@@ -8,7 +8,7 @@ If you encounter a bug, want to suggest a new feature, have any kind of a proble
 
 If you came across a bug, we highly encourage that you report it here so we can take a look and fix it.
 
-Before reporting a bug, we highly recommend that you read [Before you submit a bug report](#before-you-submit-a-bug-report) and [How tp write a good bug report](#how-to-write-a-good-bug-report) first.
+Before reporting a bug, we highly recommend that you read [Before you submit a bug report](#before-you-submit-a-bug-report) and [How to write a good bug report](#how-to-write-a-good-bug-report) first.
 
 ### Before you submit a bug report
 
