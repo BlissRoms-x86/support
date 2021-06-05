@@ -1,4 +1,4 @@
-# Bliss OS Issues
+# Bliss OS Bug reports and Feature requests
 
 Public repo for Bliss OS bug reports, feature requests etc.
 
