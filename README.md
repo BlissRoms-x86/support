@@ -88,4 +88,4 @@ The more information you give us, and the more accurate it is, the higher the ch
 
 ## Contributing
 
-If you're looking to contribute to the project, please refer to [CONTRIBUTING](CONTRIBUTING.md) to find out how you can do so
+If you're looking to contribute to the project, please refer to [CONTRIBUTING](CONTRIBUTING.md).
