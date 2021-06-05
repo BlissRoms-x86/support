@@ -47,7 +47,7 @@ If you'd like to suggest us a feature to add to Bliss OS, we highly encourage th
 
 Before submitting a feature request, we highly recommend you read [Before you submit a feature request](#before-you-submit-a-feature-request) and [How to write a good feature request](#how-to-write-a-good-feature-request) first.
 
-### Before submitting a feature request
+### Before you submit a feature request
 
 Before submitting a feature request:
 
@@ -66,7 +66,7 @@ And most important of all, make sure to fulfill as many as fields you can in our
 
 The more information you give us, and the more accurate it is, the higher the chances are that we'll understand what exactly you're requesting.
 
-### How do I submit a feature request?
+### How to submit a feature request
 
 * **GitHub**:
   1. Go to the [Issues](https://github.com/BlissRoms-x86/support/issues) section
