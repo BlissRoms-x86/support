@@ -33,7 +33,7 @@ Before submitting a bug report, there are a few things you need to take in consi
 We have a few short tips on how to write a good bug report so the developers can have an easy time jumping on it:
 
 * **Use a clear and descriptive title for the issue.**
-  * For example, if the issue concerns the kernel, name the issue similiar to this: "[Kernel]: Short description"
+  * For example, if the issue concerns the kernel, name the issue similiar to this: [Kernel]: Short description
 * **Describe the steps to reproduce the bug.**
 * **Describe what behaviour you observed after the bug occured.**
 * **Explain what behaviour you expected to see instead and why.**
