@@ -33,6 +33,7 @@ Before submitting a bug report, there are a few things you need to take in consi
 We have a few short tips on how to write a good bug report so the developers can have an easy time jumping on it:
 
 * **Use a clear and descriptive title for the issue.**
+  * For example, if the issue concerns the kernel, name the issue like [Kernel]: Short description
 * **Describe the steps to reproduce the bug.**
 * **Describe what behaviour you observed after the bug occured.**
 * **Explain what behaviour you expected to see instead and why.**
@@ -69,8 +70,8 @@ Before submitting a feature request:
 
 We have a few short tips on how to write a good feature request so the developers can have an easy time jumping on it:
 
-* **Don't hesitate to express your knowledge.**
 * **Write a clear and descriptive title for the request.**
+* **Don't hesitate to express your knowledge.**
 * **Explain how the project could benefit of your request.**
 
 And most important of all, make sure to fulfill as many as fields you can in our feature request template.
