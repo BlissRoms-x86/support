@@ -2,20 +2,20 @@
 
 Public repo for Bliss OS bug reports, feature requests etc.
 
-If you encounter a bug, want to suggest a new feature, have any kind of a problem with Bliss OS, this is the place to report it.
+If you encounter a bug, want to suggest a new feature, have any kind of a problem with Bliss OS, this is the only place to report it.
 
 ## Table of Contents
 
-  - [Report a bug](#how-to-report-a-bug)
+  - [Report a bug](#report-a-bug)
     - [Before you submit a bug report](#before-you-submit-a-bug-report)
     - [How to write a good bug report](#how-to-write-a-good-bug-report)
     - [How to submit a bug report](#how-to-submit-a-bug-report)
-  - [Request a feature](#how-to-make-a-feature-request)
+  - [Propose a new feature](#make-a-feature-request)
     - [Before you submit a feature request](#before-you-submit-a-feature-request)
     - [How to write a good feature request](#how-to-write-a-good-feature-request)
     - [How to submit a feature request](#how-to-submit-a-feature-request)
 
-## How to report a bug
+## Report a bug
 
 If you came across a bug, we highly encourage that you report it here so we can take a look and fix it.
 
@@ -52,7 +52,7 @@ The more information you give us, and the more accurate it is, the sooner we'll 
   4. Fill in the template
   5. Submit
 
-## How to make a feature request
+## Make a feature request
 
 If you'd like to suggest us a feature to add to Bliss OS, we highly encourage that you make a feature request here and we'll consider it.
 
