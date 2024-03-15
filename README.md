@@ -86,7 +86,3 @@ The more information you give us, and the more accurate it is, the higher the ch
   3. Select the **Feature request** template
   4. Fill in the fields
   5. Submit
-
-## Contributing
-
-If you're looking to contribute to the project, please refer to [CONTRIBUTING](CONTRIBUTING.md).
